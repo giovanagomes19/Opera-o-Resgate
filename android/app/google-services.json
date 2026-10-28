@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213162023181",
+    "project_id": "operacaoresgate-a8673",
+    "storage_bucket": "operacaoresgate-a8673.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213162023181:android:0f1633cc748aabc4763844",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213162023181-v1d2emp8fo9q7ekbkgdpv5l3ccm7uiej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcL7e8PiTtP2CGGzkXZITB-tr2SAXw7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213162023181-v1d2emp8fo9q7ekbkgdpv5l3ccm7uiej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
